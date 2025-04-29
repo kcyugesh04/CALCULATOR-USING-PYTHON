@@ -38,13 +38,15 @@ elif sel == 4:
     print(n1, "/", n2, "=", div(n1, n2))
 else:
     print("Invalid input")
+```
 
 ## OUTPUT:
 ![Screenshot 2025-04-29 211001](https://github.com/user-attachments/assets/c5b3d11d-6b22-4433-ae28-0d6f144e3a64)
 ![Screenshot 2025-04-29 211041](https://github.com/user-attachments/assets/acb99332-9e06-45ac-be1d-baf7e9b4015b)
 
-## RESULT:THE CODE HAS BEEN EXECUTED SUCCESSFULLY
+## RESULT:
+THE CODE HAS BEEN EXECUTED SUCCESSFULLY
 
 
 
-```
+
